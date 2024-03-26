@@ -1,5 +1,5 @@
 # C - Stacks, Queues - LIFO, FIFO 
-```
+
 This project is about figure:
 
 >- What do LIFO and FIFO mean
@@ -8,4 +8,3 @@ This project is about figure:
 >- What are the common implementations of stacks and queues
 >- What are the most common use cases of stacks and queues
 >- What is the proper way to use global variables
-```
